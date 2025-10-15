@@ -33,7 +33,7 @@ It was prototyped and shipped during **UHI6** (Uniswap Hook Incubator cohort 6),
 
 **Why it matters**
 - Automates rebalance logic around ticks/price bands
-- Designed for real DeFi users to benefit
+- Designed for real DeFi users
 - Integrates EigenLayer for verification & security
 
 ---
@@ -50,7 +50,7 @@ It was prototyped and shipped during **UHI6** (Uniswap Hook Incubator cohort 6),
 ---
 
 ### Stack
-- **Core:** TypeScript/JavaScript, React, NestJS, Node, 
+- **Core:** TypeScript/JavaScript, React, Next.js, Node.js, Nest.js
 - **DeFi:** Uniswap v3/v4, Aave V3, Pendle
 - **Infra/Tooling:** viem/ethers, Foundry, Hardhat, Docker, CI
 
