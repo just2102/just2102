@@ -50,7 +50,7 @@ It was prototyped and shipped during **UHI6** (Uniswap Hook Incubator cohort 6),
 ---
 
 ### Stack
-- **Core:** TypeScript/JavaScript, React, Next.js, Node.js, Nest.js
+- **Core:** TypeScript/JavaScript, Solidity, React, Next.js, Node.js, Nest.js
 - **DeFi:** Uniswap v3/v4, Aave V3, Pendle
 - **Infra/Tooling:** viem/ethers, Foundry, Hardhat, Docker, CI
 
