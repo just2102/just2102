@@ -43,7 +43,6 @@ It was prototyped and shipped during **UHI6** (Uniswap Hook Incubator cohort 6),
 - **[LongPlay](https://github.com/just2102/LongPlay)** - Automated Liquidity Management via **Uniswap v4 hook** (TypeScript + Solidity)
 - **[FundFilm](https://github.com/just2102/FundFilm)** - Crowdfunding service on Polygon & Scroll (TypeScript)
 - **[uniswap-profit-calculator](https://github.com/just2102/uniswap-profit-calculator)** - Profit calculator for Uniswap v3/v4 pools (TypeScript)
-- **[url-shortener](https://github.com/just2102/url-shortener)** - Minimal URL shortener service (TypeScript)
 - **[Solana-Token-Scanner](https://github.com/just2102/Solana-Token-Scanner)** - Token scanning utility for Solana (TypeScript)
 
 
