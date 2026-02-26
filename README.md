@@ -1,6 +1,6 @@
 <h1 align="center">Ilia Krasiuchenko 
   
- Frontend/Full Stack • Fintech • Web3</h1>
+ Frontend • Full Stack • Fintech • Web3</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ilia-krasiuchenko/">LinkedIn</a>
