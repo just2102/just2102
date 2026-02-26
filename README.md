@@ -1,6 +1,6 @@
 <h1 align="center">Ilia Krasiuchenko 
   
-  Fintech • Web3 • Uniswap v3/v4</h1>
+ Frontend/Full Stack • Fintech • Web3</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ilia-krasiuchenko/">LinkedIn</a>
