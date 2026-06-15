@@ -17,7 +17,7 @@
 ---
 
 ### Who I am
-I build production-grade web apps on a modern TypeScript stack and ship DeFi tools that are actually used. 
+I build production-grade web apps on a modern TypeScript stack and ship tools that are actually used. 
 
 If it clicks fast and feels right, I probably built it.
 
