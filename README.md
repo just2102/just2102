@@ -15,37 +15,36 @@
 </p>
 
 ---
+# Ilia Krasiuchenko
+### Full Stack Engineer • Web3 & Fintech
 
-### Who I am
-I build production-grade web apps on a modern TypeScript stack and ship tools that are actually used. 
+[LinkedIn](https://linkedin.com/in/your-profile)
 
-If it clicks fast and feels right, I probably built it.
-
----
-
-### Spotlight: LongPlay (Uniswap v4 Hook)
-**LongPlay** is an automated liquidity management service built on a Uniswap **v4 hook**.  
-It was prototyped and shipped during **UHI6** (Uniswap Hook Incubator cohort 6), a program and hookathon **funded by the Uniswap Foundation**.  
-
-→ Repo: **[LongPlay](https://github.com/just2102/LongPlay)**
-
-→ Hook Directory: **[Atrium Academy](https://atriumacademy.notion.site/LongPlay-Automated-Liquidity-Management-powered-by-Uniswap-V4-and-EigenLayer-2725f0444abe8104b5dcc74e7c8e94bd)**
-
-**Why it matters**
-- Automates rebalance logic around ticks/price bands
-- Designed for real DeFi users
-- Integrates EigenLayer for verification & security
+Full-stack engineer specializing in DeFi protocols, automated tooling, and high-performance Web3 web applications across TypeScript, React, and Solidity.
 
 ---
 
-### Projects
+### Open Source Contributions
+* **[cowprotocol/cowswap](https://github.com/cowprotocol/cowswap)** — Contributed UI components and optimizations to the CoW Protocol batch auction DEX.
 
-- **[LongPlay](https://github.com/just2102/LongPlay)** - Automated Liquidity Management via **Uniswap v4 hook** (TypeScript + Solidity)
-- **[FundFilm](https://github.com/just2102/FundFilm)** - Crowdfunding service on Polygon & Scroll (TypeScript)
-- **[uniswap-profit-calculator](https://github.com/just2102/uniswap-profit-calculator)** - Profit calculator for Uniswap v3/v4 pools (TypeScript)
-- **[Solana-Token-Scanner](https://github.com/just2102/Solana-Token-Scanner)** - Token scanning utility for Solana (TypeScript)
+---
 
+### Featured Projects
+* **[LongPlay](https://github.com/your-username/longplay)** — Automated liquidity management service built on a Uniswap v4 hook[cite: 1].
+  * Prototyped and shipped during Uniswap Hook Incubator Cohort 6 (UHI6), funded by the Uniswap Foundation[cite: 1].
+  * Automates pool rebalancing logic across specific tick ranges and price bands[cite: 1].
+  * Integrates EigenLayer for state verification and security[cite: 1].
+  * Listed in the [Atrium Academy Hook Directory](https://atrium.academy)[cite: 1].
+* **[uniswap-profit-calculator](https://github.com/your-username/uniswap-profit-calculator)** — Yield and profit calculation utility for Uniswap v3 and v4 liquidity positions[cite: 1].
+* **[FundFilm](https://github.com/your-username/fundfilm)** — Decentralized crowdfunding platform deployed on Polygon and Scroll[cite: 1].
+* **[Solana-Token-Scanner](https://github.com/your-username/solana-token-scanner)** — Real-time token analytics and scanning utility for the Solana ecosystem[cite: 1].
 
+---
+
+### Technical Stack
+* **Languages & Core:** TypeScript, JavaScript, Solidity, React, Next.js, Node.js, Nest.js[cite: 1]
+* **DeFi Protocols:** Uniswap v3/v4, CoW Protocol, Aave V3, Pendle[cite: 1]
+* **Tooling & Infra:** viem, ethers.js, Foundry, Hardhat, Docker, CI/CD[cite: 1]
 ---
 
 ### Stack
