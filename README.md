@@ -16,9 +16,6 @@
 
 ---
 # Ilia Krasiuchenko
-### Full Stack Engineer • Web3 & Fintech
-
-[LinkedIn](https://linkedin.com/in/your-profile)
 
 Full-stack engineer specializing in DeFi protocols, automated tooling, and high-performance Web3 web applications across TypeScript, React, and Solidity.
 
@@ -30,14 +27,14 @@ Full-stack engineer specializing in DeFi protocols, automated tooling, and high-
 ---
 
 ### Featured Projects
-* **[LongPlay](https://github.com/your-username/longplay)** — Automated liquidity management service built on a Uniswap v4 hook[cite: 1].
+* **[LongPlay](https://github.com/just2102/LongPlay)** — Automated liquidity management service built on a Uniswap v4 hook[cite: 1].
   * Prototyped and shipped during Uniswap Hook Incubator Cohort 6 (UHI6), funded by the Uniswap Foundation[cite: 1].
   * Automates pool rebalancing logic across specific tick ranges and price bands[cite: 1].
   * Integrates EigenLayer for state verification and security[cite: 1].
   * Listed in the [Atrium Academy Hook Directory](https://atrium.academy)[cite: 1].
-* **[uniswap-profit-calculator](https://github.com/your-username/uniswap-profit-calculator)** — Yield and profit calculation utility for Uniswap v3 and v4 liquidity positions[cite: 1].
-* **[FundFilm](https://github.com/your-username/fundfilm)** — Decentralized crowdfunding platform deployed on Polygon and Scroll[cite: 1].
-* **[Solana-Token-Scanner](https://github.com/your-username/solana-token-scanner)** — Real-time token analytics and scanning utility for the Solana ecosystem[cite: 1].
+* **[uniswap-profit-calculator](https://github.com/just2102/uniswap-profit-calculator)** — Yield and profit calculation utility for Uniswap v3 and v4 liquidity positions[cite: 1].
+* **[FundFilm](https://github.com/just2102/FundFilm)** — Decentralized crowdfunding platform deployed on Polygon and Scroll[cite: 1].
+* **[Solana-Token-Scanner](https://github.com/just2102/Solana-Token-Scanner)** — Real-time token analytics and scanning utility for the Solana ecosystem[cite: 1].
 
 ---
 
