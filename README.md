@@ -3,15 +3,15 @@
  Frontend • Full Stack • Fintech • Web3</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ilia-krasiuchenko/">LinkedIn</a>
-</p>
-
-<p align="center">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB">
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white">
   <img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white">
   <img alt="Uniswap v4" src="https://img.shields.io/badge/Uniswap-v4-ff007a?logo=uniswap&logoColor=white">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ilia-krasiuchenko/">LinkedIn</a>
 </p>
 
 ---
