@@ -26,21 +26,21 @@ Full-stack engineer specializing in DeFi protocols, automated tooling, and high-
 ---
 
 ### Featured Projects
-* **[LongPlay](https://github.com/just2102/LongPlay)** — Automated liquidity management service built on a Uniswap v4 hook[cite: 1].
-  * Prototyped and shipped during Uniswap Hook Incubator Cohort 6 (UHI6), funded by the Uniswap Foundation[cite: 1].
-  * Automates pool rebalancing logic across specific tick ranges and price bands[cite: 1].
-  * Integrates EigenLayer for state verification and security[cite: 1].
-  * Listed in the [Atrium Academy Hook Directory](https://atrium.academy)[cite: 1].
-* **[uniswap-profit-calculator](https://github.com/just2102/uniswap-profit-calculator)** — Yield and profit calculation utility for Uniswap v3 and v4 liquidity positions[cite: 1].
-* **[FundFilm](https://github.com/just2102/FundFilm)** — Decentralized crowdfunding platform deployed on Polygon and Scroll[cite: 1].
-* **[Solana-Token-Scanner](https://github.com/just2102/Solana-Token-Scanner)** — Real-time token analytics and scanning utility for the Solana ecosystem[cite: 1].
+* **[LongPlay](https://github.com/just2102/LongPlay)** — Automated liquidity management service built on a Uniswap v4 hook.
+  * Prototyped and shipped during Uniswap Hook Incubator Cohort 6 (UHI6), funded by the Uniswap Foundation.
+  * Automates pool rebalancing logic across specific tick ranges and price bands.
+  * Integrates EigenLayer for state verification and security.
+  * Listed in the [Atrium Academy Hook Directory](https://atrium.academy) .
+* **[uniswap-profit-calculator](https://github.com/just2102/uniswap-profit-calculator)** — Yield and profit calculation utility for Uniswap v3 and v4 liquidity positions.
+* **[FundFilm](https://github.com/just2102/FundFilm)** — Decentralized crowdfunding platform deployed on Polygon and Scroll.
+* **[Solana-Token-Scanner](https://github.com/just2102/Solana-Token-Scanner)** — Real-time token analytics and scanning utility for the Solana ecosystem.
 
 ---
 
 ### Technical Stack
-* **Languages & Core:** TypeScript, JavaScript, Solidity, React, Next.js, Node.js, Nest.js[cite: 1]
-* **DeFi Protocols:** Uniswap v3/v4, CoW Protocol, Aave V3, Pendle[cite: 1]
-* **Tooling & Infra:** viem, ethers.js, Foundry, Hardhat, Docker, CI/CD[cite: 1]
+* **Languages & Core:** TypeScript, JavaScript, Solidity, React, Next.js, Node.js, Nest.js
+* **DeFi Protocols:** Uniswap v3/v4, CoW Protocol, Aave V3, Pendle
+* **Tooling & Infra:** viem, ethers.js, Foundry, Hardhat, Docker, CI/CD
 ---
 
 ### Stack
