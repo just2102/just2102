@@ -15,7 +15,6 @@
 </p>
 
 ---
-# Ilia Krasiuchenko
 
 Full-stack engineer specializing in DeFi protocols, automated tooling, and high-performance Web3 web applications across TypeScript, React, and Solidity.
 
