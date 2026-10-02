@@ -21,7 +21,7 @@ Full-stack engineer specializing in DeFi protocols, automated tooling, and high-
 ---
 
 ### Open Source Contributions
-* **[cowprotocol/cowswap](https://github.com/cowprotocol/cowswap)** — Contributed UI components and optimizations to the CoW Protocol batch auction DEX.
+* **[cowprotocol/cowswap](https://github.com/cowprotocol/cowswap)** — Contributed internationalization (i18n) improvements, including core localization setup, pluralization handling, and translation workflows across the DEX interface.
 
 ---
 
